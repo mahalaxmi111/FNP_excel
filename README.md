@@ -1,5 +1,4 @@
-![App Screenshot]([![DASHBOARD](https://github.com/mahalaxmi111/FNP_excel/blob/main/DASHBOARD.jpg)
-)
+<img src ="https://github.com/mahalaxmi111/FNP_excel/blob/main/DASHBOARD.jpg">
 # ferns and petals SALES_excel
 
 ## Sales Analysis Dashboard
