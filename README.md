@@ -1,5 +1,6 @@
 <img src ="https://github.com/mahalaxmi111/FNP_excel/blob/main/DASHBOARD.jpg">
-# ferns and petals SALES_excel
+
+## ferns and petals SALES_excel
 
 ## Sales Analysis Dashboard
 This repository contains a sales analysis dashboard built using Microsoft Excel. The dashboard provides a comprehensive overview of sales performance across various metrics.
