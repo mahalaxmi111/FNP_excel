@@ -1,4 +1,5 @@
-<img src ="https://github.com/mahalaxmi111/FNP_excel/blob/main/DASHBOARD.jpg">
+
+![dash123](https://github.com/user-attachments/assets/aecf609e-ee4b-4f57-bcd0-e57b09d2842c)
 
 ## ferns and petals SALES_excel
 
